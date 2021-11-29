@@ -1,2 +1,0 @@
-# Coursework-OOP
-Курсова робота
